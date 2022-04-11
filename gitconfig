@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kevinlee7007@gmail.com
+	name = Kevin Lee
